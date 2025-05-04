@@ -13,3 +13,4 @@ sphinx-togglebutton
 # YAML validation. Used by zephyr_module.
 PyYAML>=5.1
 pykwalify
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
